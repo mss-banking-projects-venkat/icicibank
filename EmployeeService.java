@@ -1,4 +1,6 @@
 
+Getting the Git stash.....
+
 Updating in the master branch....
 Addding new dev changes
 
